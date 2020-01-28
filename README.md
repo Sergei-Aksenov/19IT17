@@ -1,5 +1,5 @@
 # My first Repository
 ####This my first Repository
 
-#Instruction to open 
+#Outline
 #### Open my repository and view its contents
